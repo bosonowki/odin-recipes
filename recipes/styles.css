@@ -1,0 +1,10 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+.title {
+    color: palevioletred;
+}
+li, p {
+    color: rgb(119, 7, 55);
+}
+
